@@ -6,7 +6,7 @@ Sistema supervisório desenvolvido em Python para monitoramento simulado de par�
 
 ## 📷 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ---
 
